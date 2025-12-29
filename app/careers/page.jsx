@@ -37,8 +37,8 @@ const CareersPage = () => {
               At Genix MEP Design Consultant we believe that our most important
               resource is our employees and we aim to build a challenging and
               rewarding work environment where competent people can develop and
-              utilize their full potential to achieve the Company’s as well as
-              their own goals.
+              utilize their full potential to achieve the Company&apos;s as well
+              as their own goals.
             </p>
             <p>
               We are always looking for highly skilled, committed and
