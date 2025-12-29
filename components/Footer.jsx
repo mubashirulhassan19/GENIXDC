@@ -8,8 +8,12 @@ import { footerItems } from "@/constants";
 export const Footer = () => {
   return (
     <footer>
-      <div className="py-16 px-20 flex gap-8">
-        <div className="mr-20">
+      {/* 
+        On mobile: stack columns (flex-col), reduce padding to avoid overflow.
+        On md and above: use original layout (flex-row), larger padding.
+      */}
+      <div className="py-16 px-4 md:px-20 flex flex-col md:flex-row gap-8">
+        <div className="md:mr-20">
           <div className="mb-5">
             <Image
               src="/logo.png"
@@ -18,33 +22,21 @@ export const Footer = () => {
               height={80}
               className="mb-3"
             />
-            <p
-              className={clsx("text-[#292F36] text-[30px] leading-8 font-bold")}
-            >
+            <p className="text-[#292F36] text-[30px] leading-8 font-bold">
               <span>H&H</span> <br />
               <span>Power</span>
             </p>
           </div>
           <p className="text-[#4D5053] leading-7 mb-5">
-            It is a long established fact that a reader <br /> will be
-            distracted lookings.
+            It is a long established fact that a reader <br /> will be distracted
+            lookings.
           </p>
-          <div className="flex gap-x-8 items-center ">
+          <div className="flex gap-x-8 items-center">
             <Link href="/">
-              <Image
-                src="/facebook.svg"
-                alt="Facebook"
-                width={12}
-                height={12}
-              />
+              <Image src="/facebook.svg" alt="Facebook" width={12} height={12} />
             </Link>
             <Link href="/">
-              <Image
-                src="/linkedin.svg"
-                alt="Linked In"
-                width={16}
-                height={22}
-              />
+              <Image src="/linkedin.svg" alt="Linked In" width={16} height={22} />
             </Link>
             <Link href="/">
               <Image
@@ -57,7 +49,8 @@ export const Footer = () => {
           </div>
         </div>
 
-        <div className="flex gap-6 justify-evenly flex-1">
+        {/* Use flex-col on mobile so columns stack, avoiding horizontal overflow */}
+        <div className="flex flex-col md:flex-row gap-6 flex-1 justify-evenly">
           {footerItems.map((el, index) => (
             <div key={index}>
               <p className="text-[#292F36] font-bold mb-6">{el.item}</p>
@@ -95,7 +88,7 @@ export const Footer = () => {
       </div>
 
       <div className="flex justify-center items-center p-4 border-t border-t-[#E5E5E5]">
-        <p className="text-[#4D5053] pt-8">
+        <p className="text-[#4D5053] pt-8 text-center">
           Copyright © H&H Power, 2024. All rights reserved
         </p>
       </div>

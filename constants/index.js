@@ -187,6 +187,7 @@ export const industries = [
   },
 ];
 
+export const navMenue = [{ menue: "/menue-option-icon.webp" }];
 export const howWeWork = [
   "Planning & Scheduling ",
   "Execution of all MEP services",
