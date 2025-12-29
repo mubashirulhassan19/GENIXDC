@@ -9,9 +9,9 @@ import "./globals.css";
 const monsterrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "H&H Power",
+  title: "Genix MEP Design Consultant",
   description:
-    "H&H ENGINEERING PROVIDES QUALITY AND COMPREHENSIVE SERVICES FOR COMMERCIAL AND RESIDENTIAL BUILDING MECHANICAL, ELECTRICAL AND PLUMBING SYSTEMS AT AFFORDABLE RATES. ",
+    "Genix MEP Design Consultant provides quality and comprehensive services for commercial and residential building mechanical, electrical and plumbing systems at affordable rates. ",
 };
 
 export default function RootLayout({ children }) {

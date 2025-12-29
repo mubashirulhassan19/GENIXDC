@@ -13,8 +13,7 @@ export const sendEmail = async (details) => {
   const mailOptions = {
     // from: `Mubashir Ul Hassan <${process.env.EMAIL_FROM}>`,
     from: `${process.env.EMAIL_FROM}`,
-    // to: "info.hnhpower@gmail.com",
-    to: "uzairulhassan24@gmail.com",
+    to: "info.genixdc@gmail.com",
     subject: `Enquiry regarding ${details.product}`,
     html: `
     <h2>Dear ${details.name},</h2>

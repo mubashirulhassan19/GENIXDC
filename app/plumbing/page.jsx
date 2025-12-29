@@ -42,12 +42,13 @@ const PlumbingPage = () => {
             routine and cause significant inconvenience.
           </p>
           <p>
-            At HnH POWER , we understand the importance of having a reliable and
-            experienced plumber you can trust. We offer a comprehensive range of
-            plumbing services to meet your needs, from routine maintenance and
-            repairs to major installations and replacements. Our team of skilled
-            and licensed plumbers is dedicated to providing you with the highest
-            quality service and customer satisfaction.
+            At Genix MEP Design Consultant, we understand the importance of
+            having a reliable and experienced plumber you can trust. We offer a
+            comprehensive range of plumbing services to meet your needs, from
+            routine maintenance and repairs to major installations and
+            replacements. Our team of skilled and licensed plumbers is dedicated
+            to providing you with the highest quality service and customer
+            satisfaction.
           </p>
         </div>
 

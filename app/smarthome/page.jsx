@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export const metadata = {
   title: "Smart Home Automation",
-  description: `H&H aims to ﬁll the void of smart automation in their customer lives.
+  description: `Genix MEP Design Consultant aims to ﬁll the void of smart automation in their customer lives.
   We offer smart retroﬁt solutions which bring efﬁciency, security,
   accessibility and affordability. In combination with those beneﬁts, we
   bring comfort, convenience and luxury to every home, corporate ofﬁce
@@ -21,11 +21,12 @@ const SmarthomePage = () => {
 
       <div className="max-w-[1200px] mx-auto px-3">
         <p className="text-xl leading-10 text-[#2B2B2B] text-center mb-16">
-          H&H aims to ﬁll the void of smart automation in their customer lives.
-          We offer smart retroﬁt solutions which bring efﬁciency, security,
-          accessibility and affordability. In combination with those beneﬁts, we
-          bring comfort, convenience and luxury to every home, corporate ofﬁce
-          or hospitality, be it a new or pre-constructed building.
+          Genix MEP Design Consultant aims to ﬁll the void of smart automation
+          in their customer lives. We offer smart retroﬁt solutions which bring
+          efﬁciency, security, accessibility and affordability. In combination
+          with those beneﬁts, we bring comfort, convenience and luxury to every
+          home, corporate ofﬁce or hospitality, be it a new or pre-constructed
+          building.
         </p>
 
         <section className="mb-28">
@@ -113,21 +114,21 @@ const SmarthomePage = () => {
       <div className="max-w-[1200px] mx-auto px-3">
         <section className="mb-28">
           <p className="text-xl leading-10 text-[#2B2B2B] text-center mb-16">
-            H&H aims to ﬁll the void of smart automation in their customer
-            lives. We offer smart retroﬁt solutions which bring efﬁciency,
-            security, accessibility and affordability. In combination with those
-            beneﬁts, we bring comfort, convenience and luxury to every home,
-            corporate ofﬁce or hospitality, be it a new or pre-constructed
-            building.
+            Genix MEP Design Consultant aims to ﬁll the void of smart automation
+            in their customer lives. We offer smart retroﬁt solutions which
+            bring efﬁciency, security, accessibility and affordability. In
+            combination with those beneﬁts, we bring comfort, convenience and
+            luxury to every home, corporate ofﬁce or hospitality, be it a new or
+            pre-constructed building.
           </p>
           <h2 className="text-[#4D5053] font-bold text-center text-3xl mb-10">
             Partner with Us for a Seamless Smart Home Transition
           </h2>
           <p className="text-xl leading-10 text-[#2B2B2B] text-center mb-16">
             Let us guide you through the process of transforming your home into
-            a modern smart haven. Our experienced technicians will assess your
-            needs, provide expert recommendations, and install your chosen smart
-            home devices with precision and care.
+            a modern smart haven. Our experienced team will assess your needs,
+            provide expert recommendations, and install your chosen smart home
+            devices with precision and care.
           </p>
         </section>
       </div>

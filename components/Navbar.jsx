@@ -107,11 +107,16 @@ export const Navbar = () => {
       {/* Logo / Brand */}
       <Link href="/" onClick={handleLinkClick}>
         <div className="flex gap-x-2 items-center">
-          <Image src="/logo.png" alt="H&H Logo" width={80} height={80} />
+          <Image
+            src="/genixdclogo.png"
+            alt="Genix MEP Design Consultant Logo"
+            width={80}
+            height={80}
+          />
           <p className={brandTextClasses}>
-            <span>H&H</span>
+            <span>Genix MEP</span>
             <br />
-            <span>Power</span>
+            <span>Design Consultant</span>
           </p>
         </div>
       </Link>

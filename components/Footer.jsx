@@ -16,27 +16,37 @@ export const Footer = () => {
         <div className="md:mr-20">
           <div className="mb-5">
             <Image
-              src="/logo.png"
-              alt="H&H Logo"
+              src="/genixdclogo.png"
+              alt="Genix MEP Design Consultant Logo"
               width={80}
               height={80}
               className="mb-3"
             />
             <p className="text-[#292F36] text-[30px] leading-8 font-bold">
-              <span>H&H</span> <br />
-              <span>Power</span>
+              <span>Genix MEP</span> <br />
+              <span>Design Consultant</span>
             </p>
           </div>
           <p className="text-[#4D5053] leading-7 mb-5">
-            It is a long established fact that a reader <br /> will be distracted
-            lookings.
+            It is a long established fact that a reader <br /> will be
+            distracted lookings.
           </p>
           <div className="flex gap-x-8 items-center">
             <Link href="/">
-              <Image src="/facebook.svg" alt="Facebook" width={12} height={12} />
+              <Image
+                src="/facebook.svg"
+                alt="Facebook"
+                width={12}
+                height={12}
+              />
             </Link>
             <Link href="/">
-              <Image src="/linkedin.svg" alt="Linked In" width={16} height={22} />
+              <Image
+                src="/linkedin.svg"
+                alt="Linked In"
+                width={16}
+                height={22}
+              />
             </Link>
             <Link href="/">
               <Image
@@ -76,12 +86,12 @@ export const Footer = () => {
                 <br /> 500029{" "}
               </span>
               <a
-                href="mailto:info.hnhpower.in"
+                href="mailto:info.genixdc@gmail.com"
                 className="border-b border-b-white hover:border-b-black"
               >
-                info.hnhpower@gmail.com
+                info.genixdc@gmail.com
               </a>
-              <span>+91-9700225721</span>
+              <span>+91-9032372607</span>
             </div>
           </div>
         </div>
@@ -89,7 +99,7 @@ export const Footer = () => {
 
       <div className="flex justify-center items-center p-4 border-t border-t-[#E5E5E5]">
         <p className="text-[#4D5053] pt-8 text-center">
-          Copyright © H&H Power, 2024. All rights reserved
+          Copyright © Genix MEP Design Consultant, 2024. All rights reserved
         </p>
       </div>
     </footer>

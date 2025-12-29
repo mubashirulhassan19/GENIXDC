@@ -2,8 +2,8 @@ import { Form } from "@/components/Form";
 import Image from "next/image";
 
 export const metadata = {
-  title: "H&H Power",
-  description: ` At H&H Power we believe that our most important resource is our
+  title: "Genix MEP Design Consultant",
+  description: ` At Genix MEP Design Consultant we believe that our most important resource is our
     employees and we aim to build a challenging and rewarding work
     environment where competent people can develop and utilize their
     full potential to achieve the Company’s as well as their own
@@ -29,16 +29,16 @@ const CareersPage = () => {
       <div className="max-w-[1200px] mx-auto px-3">
         <div className="mb-28">
           <h2 className="text-center text-5xl font-bold mb-8">
-            Our Culture: Why H&H Power?
+            Our Culture: Why Genix MEP Design Consultant?
           </h2>
 
           <div className="text-center text-xl leading-10">
             <p>
-              At H&H Power we believe that our most important resource is our
-              employees and we aim to build a challenging and rewarding work
-              environment where competent people can develop and utilize their
-              full potential to achieve the Company’s as well as their own
-              goals.
+              At Genix MEP Design Consultant we believe that our most important
+              resource is our employees and we aim to build a challenging and
+              rewarding work environment where competent people can develop and
+              utilize their full potential to achieve the Company’s as well as
+              their own goals.
             </p>
             <p>
               We are always looking for highly skilled, committed and

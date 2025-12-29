@@ -348,19 +348,19 @@ export const customers = [
     img: "/floyd-miles.png",
     name: "Floyd Miles",
     feedback:
-      "It’s very rare that at a company like this you get to speak with the director one-on-one. HnH power   director attitude and simplicity is just amazing. The technicians of Atom MEP Engineers are knowledgeable and professional which is very important to us. ",
+      "It’s very rare that at a company like this you get to speak with the director one-on-one. Genix MEP Design Consultant director attitude and simplicity is just amazing. The team of Genix MEP Design Consultant are knowledgeable and professional which is very important to us. ",
   },
   {
     img: "/ronald-richards.png",
     name: "Ronald Richards",
     feedback:
-      "We are very pleased with team HnH power MEP Engineers, they brings anything we need to know about to our attention. Most important is companies director response ,which is very proactive .He personally care about everything under his supervision.",
+      "We are very pleased with team Genix MEP Design Consultant, they brings anything we need to know about to our attention. Most important is companies director response ,which is very proactive .He personally care about everything under his supervision.",
   },
   {
     img: "/savannah-nguyen.png",
     name: "Savannah Nguyen",
     feedback:
-      "The Advanced Engineering Company did an outstanding job managing this project for us. They were very professional in their work and very responsive addressing all project issues with the contractor and owner. I will definitely consider using them for future work.",
+      "The Genix MEP Design Consultant did an outstanding job managing this project for us. They were very professional in their work and very responsive addressing all project issues with the consultant and owner. I will definitely consider using them for future work.",
   },
   {
     img: "/ronald-richards-2.png",
@@ -378,7 +378,7 @@ export const customers = [
     img: "/kristin-watson.png",
     name: "Kristin Watson",
     feedback:
-      " HnH power  is super reliable, trustworthy, and does great work at reasonable rates. Their technicians are knowledgeable, kind, and professional! And they're very thorough!",
+      "Genix MEP Design Consultant is super reliable, trustworthy, and does great work at reasonable rates. Their team is knowledgeable, kind, and professional! And they're very thorough!",
   },
 ];
 

@@ -29,9 +29,9 @@ const HvacPage = () => {
             pressurization of staircase, etc.
           </p>
           <p className="mb-6">
-            H&H Power Team, with its dedicated team experienced in Planning and
-            Project Execution offers complete solution to every single client
-            across the Nation.{" "}
+            Genix MEP Design Consultant Team, with its dedicated team
+            experienced in Planning and Project Execution offers complete
+            solution to every single client across the Nation.{" "}
           </p>
           <p className="mb-6">
             Our infrastructure along with Technical Capability, meet any

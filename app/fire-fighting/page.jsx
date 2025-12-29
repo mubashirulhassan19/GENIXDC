@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export const metadata = {
   title: "Fire Fighting Services",
-  description: `At H&H POWER, we&apos;re dedicated to ensuring the safety and security
+  description: `At Genix MEP Design Consultant, we&apos;re dedicated to ensuring the safety and security
   of our communities through our comprehensive fire fighting services.
   With a team of highly trained professionals and state-of-the-art
   equipment, we are committed to preventing, managing, and extinguishing
@@ -25,15 +25,15 @@ const FireFightingPage = () => {
 
       <div className="max-w-[1200px] mx-auto px-3">
         <p className="text-xl leading-10 text-[#4D5053] mb-10 text-center">
-          At H&H POWER, we&apos;re dedicated to ensuring the safety and security
-          of our communities through our comprehensive fire fighting services.
-          With a team of highly trained professionals and state-of-the-art
-          equipment, we are committed to preventing, managing, and extinguishing
-          fires to protect lives and property. The Fire Fighting team covers
-          Fire hydrant and sprinkler systems, Wet & Dry Riser systems, Gas
-          Suppression Systems, Fire extinguishers, Fire alarm and Voice
-          Evacuation Systems We know where to plug in the system and thereby
-          providing you the comfort working & Living Environment.
+          At Genix MEP Design Consultant, we&apos;re dedicated to ensuring the
+          safety and security of our communities through our comprehensive fire
+          fighting services. With a team of highly trained professionals and
+          state-of-the-art equipment, we are committed to preventing, managing,
+          and extinguishing fires to protect lives and property. The Fire
+          Fighting team covers Fire hydrant and sprinkler systems, Wet & Dry
+          Riser systems, Gas Suppression Systems, Fire extinguishers, Fire alarm
+          and Voice Evacuation Systems We know where to plug in the system and
+          thereby providing you the comfort working & Living Environment.
         </p>
 
         <div className="flex justify-center gap-x-24 items-center mb-16">
@@ -97,9 +97,10 @@ const FireFightingPage = () => {
             <p className="text-[#EB682C]">Get in Touch</p>
             <p>
               Whether you require fire prevention measures, emergency response
-              services, or fire safety training, H&H POWER is here to help.
-              Contact us today to discuss your fire safety needs and discover
-              how we can safeguard your environment against fire hazards.
+              services, or fire safety training, Genix MEP Design Consultant is
+              here to help. Contact us today to discuss your fire safety needs
+              and discover how we can safeguard your environment against fire
+              hazards.
             </p>
           </div>
           <p>

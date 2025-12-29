@@ -2,9 +2,9 @@ import Image from "next/image";
 import { Form } from "@/components/Form";
 
 export const metadata = {
-  title: "H&H Power",
+  title: "Genix MEP Design Consultant",
   description:
-    "H&H POWER IS AN ORGANIZATION WHICH DEAL WITH MEP WORK I.E HVAC,ELECTRICAL, CCTV, FIRE FIGHTING SYSTEM, BIOMETRIC, ACCESS CONTROL AND PUBLIC ADDRESS STSTEM AND PHE. AT H&H POWER, WE ARE MORE THAN JUST CONTRACTOR.",
+    "Genix MEP Design Consultant is an organization which deal with MEP work I.E HVAC,ELECTRICAL, CCTV, FIRE FIGHTING SYSTEM, BIOMETRIC, ACCESS CONTROL AND PUBLIC ADDRESS STSTEM AND PHE. At Genix MEP Design Consultant, we are more than just consultant.",
 };
 
 const AboutPage = () => {
@@ -20,12 +20,13 @@ const AboutPage = () => {
 
       <div className="max-w-[1200px] mx-auto px-3">
         <p className="leading-10 text-xl text-center font-medium mb-28">
-          H&H POWER IS AN ORGANIZATION WHICH DEAL WITH MEP WORK I.E HVAC,
-          ELECTRICAL, CCTV, FIRE FIGHTING SYSTEM, BIOMETRIC, ACCESS CONTROL AND
-          PUBLIC ADDRESS STSTEM AND PHE. AT H&H POWER, WE ARE MORE THAN JUST
-          CONTRACTOR. WHILE WE HAVE THE EXPERIENCE AND KNOWLEDGE TO DELIVER THE
-          PROJECTS TO VARIETY OF CLIENTS, MERELY MEETING YOUR FUNTIONAL NEEDS IS
-          NOT ENOUGH TO FULFILL OUR MISSION INSTEAD WE PRIDE OURSELVES ON
+          Genix MEP Design Consultant is an organization which deal with MEP
+          work I.E HVAC, ELECTRICAL, CCTV, FIRE FIGHTING SYSTEM, BIOMETRIC,
+          ACCESS CONTROL AND PUBLIC ADDRESS STSTEM AND PHE. At Genix MEP Design
+          Consultant, we are more than just consultant. WHILE WE
+          HAVE THE EXPERIENCE AND KNOWLEDGE TO DELIVER THE PROJECTS TO VARIETY
+          OF CLIENTS, MERELY MEETING YOUR FUNTIONAL NEEDS IS NOT ENOUGH TO
+          FULFILL OUR MISSION INSTEAD WE PRIDE OURSELVES ON
           DEVELOPINGLONG-LASTING MEANINGFUL RELATIONSHIPS THAT HELP COMPANIES
           MANAGE THE REAL ESTATE PORTFOLIOS. ULTIMATELY, WHEN YOU SUCCEED WE
           SUCCEED. APART FROM A TEAM OF DEXTEROUS PROFESSIONALS AND EMPLOYEES,
@@ -39,17 +40,17 @@ const AboutPage = () => {
             </h2>
             <p className="text-lg leading-10">
               tO BE THE WORLD&apos;S DEFINITIVE PROVIDER OF INNOVATIVE AND
-              RELIABLE MOTION SYSTEMS. CORE VALUES H&H POWER PRIDES ITSELF ON A
-              SET OF SHARED CORE VALUES AND COMMITMENTS THAT TOGETHER FORM THE
-              FOUNDATION TO EVERYTHING WE DO. THE FIRST INITIAL OF EACH OF THESE
-              VALUES TOGETHER SPELL THE WORD &ldquo;MARBLE&rdquo; WHICH IS THE
-              ACRONYM JOHNSON ELECTRIC EMPLOYEES USE INTERNALLY WHEN REFERRING
-              TO OUR VALUES STATEMENT. MAKE CUSTOMERS SUCCESSFUL DELIVERING WHAT
-              OUR CUSTOMERS NEED, WHEN THEY NEED IT, IS THE PRIMARY GOAL OF
-              JOHNSON ELECTRIC. WE ARE COMMITTED TO MAKE OUR CUSTOMERS
-              SUCCESSFUL IN THEIR BUSINESS, AS THE BASIS FOR LONG-TERM SUCCESS
-              IN OUR BUSINESS. EXPECTATIONS BUT ALSO TO EXCEED THEM THROUGH
-              CONTINUOUS CYCLES OF LEARNING
+              RELIABLE MOTION SYSTEMS. CORE VALUES Genix MEP Design Consultant
+              PRIDES ITSELF ON A SET OF SHARED CORE VALUES AND COMMITMENTS THAT
+              TOGETHER FORM THE FOUNDATION TO EVERYTHING WE DO. THE FIRST
+              INITIAL OF EACH OF THESE VALUES TOGETHER SPELL THE WORD
+              &ldquo;MARBLE&rdquo; WHICH IS THE ACRONYM JOHNSON ELECTRIC
+              EMPLOYEES USE INTERNALLY WHEN REFERRING TO OUR VALUES STATEMENT.
+              MAKE CUSTOMERS SUCCESSFUL DELIVERING WHAT OUR CUSTOMERS NEED, WHEN
+              THEY NEED IT, IS THE PRIMARY GOAL OF JOHNSON ELECTRIC. WE ARE
+              COMMITTED TO MAKE OUR CUSTOMERS SUCCESSFUL IN THEIR BUSINESS, AS
+              THE BASIS FOR LONG-TERM SUCCESS IN OUR BUSINESS. EXPECTATIONS BUT
+              ALSO TO EXCEED THEM THROUGH CONTINUOUS CYCLES OF LEARNING
             </p>
           </div>
           <div className="relative flex-[0_0_50%]">
@@ -91,7 +92,7 @@ const AboutPage = () => {
         </div>
       </div>
 
-      <div className="bg-[#F4F0EC] p-16 mb-28">
+      {/* <div className="bg-[#F4F0EC] p-16 mb-28">
         <h2 className="text-5xl font-bold text-balance text-center capitalize">
           What people think <br />
           about us
@@ -144,8 +145,8 @@ const AboutPage = () => {
               </div>
 
               <p className="text-center text-xl">
-                +1 (000) 400-1234 <br />
-                hhpower19@gmail.com
+                +91-9032372607 <br />
+                info.genixdc@gmail.com
               </p>
             </div>
           </div>
@@ -158,7 +159,7 @@ const AboutPage = () => {
             />
           </div>
         </div>
-      </div>
+      </div> */}
 
       <Form />
     </>

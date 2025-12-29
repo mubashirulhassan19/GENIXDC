@@ -3,12 +3,12 @@ import Image from "next/image";
 
 export const metadata = {
   title: "MEP SERVICES",
-  description: `H&H Power renders MEP focused services to various sectors like
+  description: `Genix MEP Design Consultant renders MEP focused services to various sectors like
   Education, Health care, Banks, Sports club, Real estate, Shopping
   malls etc., by efficiently maintaining their facilities. We have
   technical experts who are most experienced in similar industries.
   Our aim is to provide high standards of quality engineering services
-  as the best MEP Contractors.`,
+  as the best MEP Consultant.`,
 };
 
 const MepServices = () => {
@@ -30,19 +30,19 @@ const MepServices = () => {
       <div className="max-w-[1200px] px-3 mx-auto">
         <div className="text-2xl leading-[45px] mb-16">
           <p className="text-[#CDA274]">
-            As a MEP Contractor, H&H Power is comprised of professionals with
-            comprehensive experience specialized in MEP installation, operations
-            and maintenance.
+            As a MEP Consultant, Genix MEP Design Consultant is comprised of
+            professionals with comprehensive experience specialized in MEP
+            installation, operations and maintenance.
           </p>
           <p className="text-[#4D5053] mb-16">
-            H&H Power renders MEP focused services to various sectors like
-            Education, Health care, Banks, Sports club, Real estate, Shopping
-            malls etc., by efficiently maintaining their facilities. We have
-            technical experts who are most experienced in similar industries.
-            Our aim is to provide high standards of quality engineering services
-            as the best MEP Contractors. Electrical, Low Current, Drainage,
-            Water Supply, Fire Alarm, Fire Fighting, LPG, and HVAC for
-            Residential & Industrial buildings
+            Genix MEP Design Consultant renders MEP focused services to various
+            sectors like Education, Health care, Banks, Sports club, Real
+            estate, Shopping malls etc., by efficiently maintaining their
+            facilities. We have technical experts who are most experienced in
+            similar industries. Our aim is to provide high standards of quality
+            engineering services as the best MEP Consultants. Electrical, Low
+            Current, Drainage, Water Supply, Fire Alarm, Fire Fighting, LPG, and
+            HVAC for Residential & Industrial buildings
           </p>
           <p className="text-[#4D5053]">
             MEP services are essential to the design and operation of all types

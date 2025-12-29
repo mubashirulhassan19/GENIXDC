@@ -5,9 +5,9 @@ export const metadata = {
   title: "Electrical Services",
   description: `We are one of the leading electrical services providers in south
   Asia, we believe in assisting our clients in designing,
-  coordinating, and executing projects varying in size and scope. H&H
-  Power takes pride in extending its in-house capabilities to the
-  electrification system domain as an elite Class I Contractor.`,
+  coordinating, and executing projects varying in size and scope. Genix MEP Design Consultant
+  takes pride in extending its in-house capabilities to the
+  electrification system domain as an elite Class I Consultant.`,
 };
 
 const ElectricalPage = () => {
@@ -31,17 +31,19 @@ const ElectricalPage = () => {
           <p className="mb-2">
             We are one of the leading electrical services providers in south
             Asia, we believe in assisting our clients in designing,
-            coordinating, and executing projects varying in size and scope. H&H
-            Power takes pride in extending its in-house capabilities to the
-            electrification system domain as an elite Class I Contractor.
+            coordinating, and executing projects varying in size and scope.
+            Genix MEP Design Consultant Power takes pride in extending its
+            in-house capabilities to the electrification system domain as an
+            elite Class I Consultant.
           </p>
           <p className="mb-2">
             Our Electrical division is an independent business vertical
             functioning across South India, catering to the HT and LT
             requirements of our clients in the residential, commercial,
-            hospitality and industrial segments. We at H&H Power have execution
-            capabilities for solutions in HT, LT, DG, UPS/Inverter and ELV
-            Systems to address requirements across industries.
+            hospitality and industrial segments. We at Genix MEP Design
+            Consultant have execution capabilities for solutions in HT, LT, DG,
+            UPS/Inverter and ELV Systems to address requirements across
+            industries.
           </p>
           Our team of electrical engineers provides the best solution for less
           energy consumption and right light distribution to all areas. The team

@@ -55,7 +55,7 @@ export const Form = () => {
                 height={24}
               />
             </div>
-            <p className="text-[#4D5053]">hhpower19@gmail.com</p>
+            <p className="text-[#4D5053]">info.genixdc@gmail.com</p>
           </div>
           <div className="flex gap-6 items-center">
             <div className="bg-white rounded-full overflow-hidden p-2">
@@ -63,14 +63,13 @@ export const Form = () => {
             </div>
             <p className="text-[#4D5053]">
               +91-9032372607 <br />
-              +91-9700225721
             </p>
           </div>
           <div className="flex gap-6 items-center">
             <div className="bg-white rounded-full overflow-hidden p-2">
               <Image src="/globe.svg" alt="globe" width={24} height={24} />
             </div>
-            <p className="text-[#4D5053]">hnhpower.in</p>
+            <p className="text-[#4D5053]">genixdc.com</p>
           </div>
           <div className="flex justify-start gap-x-8 items-center mb-10">
             <Image src="/facebook.svg" alt="facebook" width={16} height={16} />
