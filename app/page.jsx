@@ -25,7 +25,7 @@ const RootPage = () => {
 
   return (
     <>
-      <section className="relative md:mt-[-128px] mt-0 mb-16 flex overflow-hidden">
+      <section className="relative mb-16 flex overflow-hidden">
         {sliderImages.map((el, index) => (
           <motion.div
             key={index}

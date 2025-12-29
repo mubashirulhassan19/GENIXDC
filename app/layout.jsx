@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${monsterrat.className} h-full`}>
         <Navbar />
-        <main className="pt-32">{children}</main>
+        <main className="pt-20">{children}</main>
         <Stats />
         <Footer />
       </body>

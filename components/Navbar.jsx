@@ -112,11 +112,13 @@ export const Navbar = () => {
             alt="Genix MEP Design Consultant Logo"
             width={80}
             height={80}
+            className="shrink-0"
           />
-          <p className={brandTextClasses}>
-            <span>Genix MEP</span>
-            <br />
-            <span>Design Consultant</span>
+          <p
+            className="font-bold text-xl sm:text-3xl text-[#292F36] "
+            // className={brandTextClasses}
+          >
+            Genix MEP Design Consultant
           </p>
         </div>
       </Link>
@@ -168,6 +170,7 @@ export const Navbar = () => {
                 "relative w-full md:w-auto border-b-2 border-transparent text-xl",
                 getItemTextClasses()
               )}
+              style={{ color: "black" }}
             >
               {!hasSubItems ? (
                 // Simple link
